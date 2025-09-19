@@ -1,1 +1,1 @@
-shamvardhinis-crypto.github.io
+shamvardhinis.github.io
